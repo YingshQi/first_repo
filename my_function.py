@@ -1,2 +1,2 @@
 def my_funcction():
-    print("Hello from my_function!yahoooo")
+    print("Hello from the other side")
